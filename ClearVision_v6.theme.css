@@ -17,7 +17,7 @@
   --success-color: #D8A6CB;
   --danger-color: #EFC66A;
   --url-color: #82CCF1;
-  --background-image: url('https://i.imgur.com/lKtXhlL.jpg');
+  --background-image: url('https://i.imgur.com/J8oGzPg.jpg');
   --background-shading: 33%;
   --background-position: center;
   --background-size: cover;
@@ -29,8 +29,8 @@
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 4px;
-  --background-overlay: rgb(0,0,0,0.21);
-  --user-popout-image: url('https://i.imgur.com/CIr23uI.png');
+  --background-overlay: rgb(0,0,0,0.02);
+  --user-popout-image: url('https://i.imgur.com/ldDuoOd.png');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -41,7 +41,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 1px;
-  --user-modal-image: url('https://i.imgur.com/5611er1.png');
+  --user-modal-image: url('https://i.imgur.com/YL8HBNw.png');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -52,18 +52,18 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 0px;
-  --home-icon: url('https://i.imgur.com/pV8LNbV.png');
+  --home-icon: url('https://clearvision.github.io/icons/discord.svg');
   --home-position: center;
-  --home-size: 56px;
-  --channel-unread: #7BC1E1;
-  --channel-color: rgb(205,180,249,0.75);
-  --muted-color: rgb(51,20,106,0.6);
-  --online-color: #8EE1BB;
-  --idle-color: #F1C780;
-  --dnd-color: #D96B6B;
-  --streaming-color: #9A7EC9;
-  --offline-color: #B8B8B8;
-  --main-font: futura;
+  --home-size: 40px;
+  --channel-unread: #82D3F7;
+  --channel-color: rgb(203,174,255,1);
+  --muted-color: rgb(79,42,144,0.79);
+  --online-color: #90E1BC;
+  --idle-color: #FFDFAA;
+  --dnd-color: #E17C7C;
+  --streaming-color: #CDB3F9;
+  --offline-color: #C1C1C1;
+  --main-font: gg sans;
   --code-font: Consolas;
   --channels-width: 220px;
   --members-width: 240px;
@@ -86,3 +86,4 @@
 }
 
 /* Any custom CSS below here */
+
